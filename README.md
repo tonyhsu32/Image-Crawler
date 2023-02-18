@@ -6,4 +6,4 @@
 4. resize_img.py: convert captured image size using PIL package.
 
 ![captured image](https://github.com/tonyhsu32/Image-Crawler/blob/master/截圖%202022-02-05%20上午2.49.12.png)
-
+![code](https://github.com/tonyhsu32/Image-Crawler/blob/master/截圖%202022-02-05%20上午2.53.32.png)
